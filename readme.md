@@ -6,8 +6,4 @@ so read me yhgo
 <<<<<<< Updated upstream
 loyalty 
 =======
-loyalty loyalty loyalty
->>>>>>> Stashed changes
-=======
-loyalty loyalty loyalty
->>>>>>> Stashed changes
+
