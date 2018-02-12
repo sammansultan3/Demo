@@ -4,6 +4,7 @@ so read me yhgo
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-loyalty 
+loyalty
+hello 
 =======
 
